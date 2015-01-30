@@ -1,0 +1,8 @@
+Package: NHKG
+Type: Package
+Title: Get data from NHK GOGAKURU
+Version: 0.1
+Date: 2015-01-30
+Author: dichika
+Description: Get data from NHK GOGAKURU
+License: MIT
