@@ -6,3 +6,4 @@ Date: 2015-01-30
 Author: dichika
 Description: Get data from NHK GOGAKURU
 License: MIT
+Imports: httr, rvest
